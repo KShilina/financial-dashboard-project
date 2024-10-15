@@ -32,23 +32,6 @@ As a user, I want to see the total balance of all my accounts summarized at the 
 Explanation:
 The user wants to know the total balance of all their accounts combined. This total should be shown at the bottom of the page, so they don't have to add it up manually.
 
-User Story 4: Account Summary Navigation
-As a user, I want to be able to scroll through and view a summary of my accounts in a minimalist UI, so that I can access the details of my accounts quickly.
-Explanation:
-The user wants to easily scroll through their accounts and see all the important details quickly. The design should be simple, so it's easy to navigate and find information.
-
-
-
-User Story 5: Reliable Data Source
-As a user, I want the account balances to be pulled accurately from the JSON file,
-so that I can trust the information being displayed is current and correct.
-Explanation:
-The account balances should be pulled correctly from the JSON file, so the user can trust that what they see is accurate. This is important for building confidence in the dashboard.
-
-User Story 6: Error Handling for Data Issues
-As a user, I want to be notified if there is an issue loading my account data from the JSON file, so that the users can be aware of any potential data errors and can contact support.
-Explanation:
-If there's an issue with loading the account data from the JSON file, the user should get a clear message explaining the problem. This message should help them understand what to do next, like contacting support or trying again later.
 
 
  ## Wireframe
@@ -56,9 +39,6 @@ If there's an issue with loading the account data from the JSON file, the user s
 
 
 ## Setup Instructions
-Access https://financial-dashboard-project.onrender.com/](https://financial-dashboard-project.onrender.com/ to view our project live.
-
-OR Manual Set-up:
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run `mvn spring-boot:run` to start the server.
