@@ -35,7 +35,7 @@ The user wants to know the total balance of all their accounts combined. This to
 
 
  ## Wireframe 
-[**Financial Dashboard - Figma File**](https://www.figma.com/design/rEVUPgOwYv2fGePxDQLkcb/Gladiators?node-id=0-1&node-type=canvas&t=xDYpasLMa7Ogzt1M-0)
+[**Financial Dashboard - Figma File Link**](https://www.figma.com/design/rEVUPgOwYv2fGePxDQLkcb/Gladiators?node-id=0-1&node-type=canvas&t=xDYpasLMa7Ogzt1M-0)
 
 
 ![Screenshot 2024-10-14 at 10 51 07 PM](https://github.com/user-attachments/assets/71d2428b-032c-43bd-a6ab-ecf2b7033736)
