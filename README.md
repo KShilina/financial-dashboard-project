@@ -26,26 +26,31 @@ The project deployed at the address [https://financial-dashboard-project.onrende
  5.
 
 
- ## Wareframe
+ ## Wireframe
 
 
 
 ## Setup Instructions
+Access https://financial-dashboard-project.onrender.com/](https://financial-dashboard-project.onrender.com/ to view our project live.
+
+OR Manual Set-up:
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run `mvn spring-boot:run` to start the server.
 4. Visit `http://localhost:8080` in your browser to view the dashboard.
+   
 
 ## Features
-- Display account balances from a JSON file.
-- Minimalist UI with basic functionality.
+- Display account balances from a JSON file using a backend API call.
+- Minimalist UI with basic functionality of displaying account balance.
 
 
 ## Technologies Used
 - Java
 - Spring Boot
 - JavaScript
+- HTML
 - JSON for data
-- Bootstrap for styling
+- CSS, Bootstrap for styling
 
 
