@@ -15,19 +15,19 @@ The project deployed at the address [https://financial-dashboard-project.onrende
 ## Planning Process
  Users Stories:
 
-User Story 1: Viewing Account Balances
+**User Story 1:** Viewing Account Balances
 As a user, I want to view my account balances clearly displayed on the dashboard,
 so that  I can quickly assess my financial standing across all accounts.
 Explanation:
 This is about making sure the user can easily see their balances for each account (checking, savings, and investment). The dashboard should be simple and display this information in a way that's easy to read at a glance.
 
-User Story 2: Clear Visuals for Account Information
+**User Story 2:** Clear Visuals for Account Information
 As a user, I want to see each account's balance and account number clearly presented,
 so that the users can easily understand the details of each account without confusion.
 Explanation:
 The user wants the account information (like balance and account number) to be easy to understand. Each account should be shown separately, so it's clear which account is which.
 
-User Story 3: Total Balance Overview
+**User Story 3:** Total Balance Overview
 As a user, I want to see the total balance of all my accounts summarized at the bottom of the page, so that I can understand my total financial position at a glance.
 Explanation:
 The user wants to know the total balance of all their accounts combined. This total should be shown at the bottom of the page, so they don't have to add it up manually.
