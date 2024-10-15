@@ -15,15 +15,40 @@ The project deployed at the address [https://financial-dashboard-project.onrende
 ## Planning Process
  Users Stories:
 
- 1.
+User Story 1: Viewing Account Balances
+As a user, I want to view my account balances clearly displayed on the dashboard,
+so that  I can quickly assess my financial standing across all accounts.
+Explanation:
+This is about making sure the user can easily see their balances for each account (checking, savings, and investment). The dashboard should be simple and display this information in a way that's easy to read at a glance.
 
- 2.
+User Story 2: Clear Visuals for Account Information
+As a user, I want to see each account's balance and account number clearly presented,
+so that the users can easily understand the details of each account without confusion.
+Explanation:
+The user wants the account information (like balance and account number) to be easy to understand. Each account should be shown separately, so it's clear which account is which.
 
- 3.
+User Story 3: Total Balance Overview
+As a user, I want to see the total balance of all my accounts summarized at the bottom of the page, so that I can understand my total financial position at a glance.
+Explanation:
+The user wants to know the total balance of all their accounts combined. This total should be shown at the bottom of the page, so they don't have to add it up manually.
 
- 4.
+User Story 4: Account Summary Navigation
+As a user, I want to be able to scroll through and view a summary of my accounts in a minimalist UI, so that I can access the details of my accounts quickly.
+Explanation:
+The user wants to easily scroll through their accounts and see all the important details quickly. The design should be simple, so it's easy to navigate and find information.
 
- 5.
+
+
+User Story 5: Reliable Data Source
+As a user, I want the account balances to be pulled accurately from the JSON file,
+so that I can trust the information being displayed is current and correct.
+Explanation:
+The account balances should be pulled correctly from the JSON file, so the user can trust that what they see is accurate. This is important for building confidence in the dashboard.
+
+User Story 6: Error Handling for Data Issues
+As a user, I want to be notified if there is an issue loading my account data from the JSON file, so that the users can be aware of any potential data errors and can contact support.
+Explanation:
+If there's an issue with loading the account data from the JSON file, the user should get a clear message explaining the problem. This message should help them understand what to do next, like contacting support or trying again later.
 
 
  ## Wireframe
